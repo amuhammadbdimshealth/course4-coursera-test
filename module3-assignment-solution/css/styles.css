@@ -1,0 +1,40 @@
+/*Page default style */
+body{
+	background-color: #2284A4;
+}
+
+/*HEADER*/
+#nav-list{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#nav-list li{
+	/*display: block;*/
+	padding: 10px;
+	text-align: center;
+	border: 1px solid #1C1C1C;
+	
+}
+#brand{
+	height: 70px;
+} 
+
+#brand h1{
+	margin: 0;
+}
+
+/*END HEADER*/
+
+/*MAIN-CONTENT*/
+
+#main-content{
+	color: #f8f8f8;	
+	width: 90%;
+}
+
+.really-tall-section{
+	background-color: #1C1C1C;
+
+}
+
+/*END MAIN-CONTENT*/
